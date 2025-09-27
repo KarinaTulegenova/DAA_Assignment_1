@@ -54,8 +54,10 @@ Performance results align closely with expected theoretical complexity:
 - Depth grows logarithmically across all recursive algorithms, while swaps and writes scale proportionally to input size.
 
 <img width="679" height="415" alt="image" src="https://github.com/user-attachments/assets/67734c1f-469f-46d8-b5bc-87587e23cd49" />
+<img width="1178" height="576" alt="image" src="https://github.com/user-attachments/assets/03ce359b-b243-4fce-b4a0-9293c45df693" />
 
 <img width="1453" height="715" alt="image" src="https://github.com/user-attachments/assets/fcb94f10-9bd7-41b3-b91c-f8a540ac2266" />
+<img width="1340" height="566" alt="image" src="https://github.com/user-attachments/assets/993ec3b7-0f1c-4b1f-a51f-f670e29a8403" />
 
 **Average case performance** comparison:
 
