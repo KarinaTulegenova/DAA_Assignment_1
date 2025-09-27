@@ -53,16 +53,24 @@ Performance results align closely with expected theoretical complexity:
 - **Select** (MoM5) scales linearly (Θ(n)) in both comparisons and depth, consistent with Akra-Bazzi bounds.
 - Depth grows logarithmically across all recursive algorithms, while swaps and writes scale proportionally to input size.
 
-<img width="679" height="415" alt="image" src="https://github.com/user-attachments/assets/67734c1f-469f-46d8-b5bc-87587e23cd49" />
-<img width="1178" height="576" alt="image" src="https://github.com/user-attachments/assets/03ce359b-b243-4fce-b4a0-9293c45df693" />
-
 <img width="1453" height="715" alt="image" src="https://github.com/user-attachments/assets/fcb94f10-9bd7-41b3-b91c-f8a540ac2266" />
-<img width="1340" height="566" alt="image" src="https://github.com/user-attachments/assets/993ec3b7-0f1c-4b1f-a51f-f670e29a8403" />
+<img width="1178" height="576" alt="image" src="https://github.com/user-attachments/assets/03ce359b-b243-4fce-b4a0-9293c45df693" />
 
 **Average case performance** comparison:
 
-<img width="786" height="491" alt="image" src="https://github.com/user-attachments/assets/4680b937-295c-41d6-b18f-bc4183d88990" />
+<img width="1343" height="643" alt="image" src="https://github.com/user-attachments/assets/22231ff3-9568-4ae6-967f-65d11032b0f2" />
 
+**Quick Sort**
+<img width="1300" height="540" alt="image" src="https://github.com/user-attachments/assets/f2603c0c-f3db-4da0-bbc1-b61b8c66b507" />
+
+**Merge Sort**
+<img width="1476" height="533" alt="image" src="https://github.com/user-attachments/assets/f2adfa62-4f7d-42af-a337-330edf12d1ef" />
+
+**Selection**
+<img width="1489" height="666" alt="image" src="https://github.com/user-attachments/assets/f8af61a2-b0d0-4c20-ae1d-0ba1feb196a9" />
+
+**Closest Pair**
+<img width="1484" height="644" alt="image" src="https://github.com/user-attachments/assets/a646104d-a9aa-4c48-8a63-0f3f4c8decd9" />
 
 ## Architecture Notes
 
