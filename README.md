@@ -53,7 +53,7 @@ Performance results align closely with expected theoretical complexity:
 - **Select** (MoM5) scales linearly (Θ(n)) in both comparisons and depth, consistent with Akra-Bazzi bounds.
 - Depth grows logarithmically across all recursive algorithms, while swaps and writes scale proportionally to input size.
 
-<img width="1453" height="715" alt="image" src="https://github.com/user-attachments/assets/fcb94f10-9bd7-41b3-b91c-f8a540ac2266" />
+<img width="1296" height="619" alt="image" src="https://github.com/user-attachments/assets/d5403183-d786-4fe5-a4f1-8e190e1bfe45" />
 <img width="1178" height="576" alt="image" src="https://github.com/user-attachments/assets/03ce359b-b243-4fce-b4a0-9293c45df693" />
 
 **Average case performance** comparison:
